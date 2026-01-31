@@ -86,7 +86,7 @@
         ARROW {
             bindings = <
 &trans  &trans
-&trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans    &trans     &trans     &trans   &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans    &trans     &trans     &trans   &kp MINUS
 &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans    &mkp LCLK  &mkp RCLK  &lt 2 L  &trans
 &trans  &trans  &trans  &trans  &trans  &trans  &trans  &mkp MB3  &trans     &trans     &trans   &trans
 &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans    &trans     &trans
