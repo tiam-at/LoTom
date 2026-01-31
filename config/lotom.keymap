@@ -100,10 +100,10 @@
         NUM {
             bindings = <
 &trans  &trans
-&trans  &kp C_VOLUME_DOWN  &trans  &kp C_VOLUME_UP  &trans  &trans  &trans        &kp BACKSLASH    &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &kp MINUS
-&trans  &kp F14            &trans  &kp F15          &trans  &trans  &trans        &kp EXCLAMATION  &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  &kp PLUS
-&trans  &trans             &pass   &trans           &trans  &trans  &trans        &kp NUMBER_0     &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp EQUAL
-&trans  &trans             &trans  &trans           &kp F8  &trans  &kp ASTERISK  &kp SLASH        &trans        &trans
+&trans  &kp C_VOLUME_DOWN  &trans  &kp C_VOLUME_UP  &trans  &trans  &trans        &kp BACKSLASH    &kp KP_NUMBER_7  &kp KP_NUMBER_8  &kp KP_NUMBER_9  &kp KP_MINUS
+&trans  &kp F14            &trans  &kp F15          &trans  &trans  &trans        &kp EXCLAMATION  &kp KP_NUMBER_4  &kp KP_NUMBER_5  &kp KP_NUMBER_6  &kp KP_PLUS
+&trans  &trans             &pass   &trans           &trans  &trans  &trans        &kp KP_NUMBER_0  &kp KP_NUMBER_1  &kp KP_NUMBER_2  &kp KP_NUMBER_3  &kp KP_EQUAL
+&trans  &trans             &trans  &trans           &kp F8  &trans  &kp ASTERISK  &kp SLASH        &trans           &trans
             >;
 
             sensor-bindings = <
